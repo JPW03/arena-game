@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>playeranimation.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'PlayerAnimation::_newSpriteTemp' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>PlayerAnimation::{ctor}</FUNCTION>
+    <DECORATED>??0PlayerAnimation@@QAE@PAVSprite@sf@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>playeranimation.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'PlayerAnimation::_fadeCounter' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>PlayerAnimation::{ctor}</FUNCTION>
+    <DECORATED>??0PlayerAnimation@@QAE@PAVSprite@sf@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>playeranimation.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'PlayerAnimation::_currentFrame' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>PlayerAnimation::{ctor}</FUNCTION>
+    <DECORATED>??0PlayerAnimation@@QAE@PAVSprite@sf@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>playeranimation.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'PlayerAnimation::_prevFrame' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>PlayerAnimation::{ctor}</FUNCTION>
+    <DECORATED>??0PlayerAnimation@@QAE@PAVSprite@sf@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>playeranimation.cpp</FILENAME>
+      <LINE>147</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Using uninitialized memory 'match'.</DESCRIPTION>
+    <FUNCTION>PlayerAnimation::SetFrame</FUNCTION>
+    <DECORATED>?SetFrame@PlayerAnimation@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>111</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>119</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>125</LINE>
+        <COLUMN>31</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>126</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>128</LINE>
+        <COLUMN>29</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>130</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>131</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>132</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>135</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'match' is not initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>136</LINE>
+        <COLUMN>55</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>147</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'match' is used, but may not have been initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>playeranimation.cpp</FILENAME>
+      <LINE>191</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer '_currentFrame'. </DESCRIPTION>
+    <FUNCTION>PlayerAnimation::SetFrame</FUNCTION>
+    <DECORATED>?SetFrame@PlayerAnimation@@QAEXH@Z</DECORATED>
+    <FUNCLINE>172</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>174</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>179</LINE>
+        <COLUMN>19</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'_currentFrame' may be NULL (Skip this branch)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>186</LINE>
+        <COLUMN>31</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>187</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>189</LINE>
+        <COLUMN>29</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'itr!=(_frames.end())&amp;&amp;!found')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>191</LINE>
+        <COLUMN>34</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this branch, (assume '&lt;branch condition&gt;' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>playeranimation.cpp</FILENAME>
+        <LINE>191</LINE>
+        <COLUMN>34</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'_currentFrame' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

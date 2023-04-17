@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_recentDistance' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_prevDirection' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_dashFadeCount' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_colliding' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_topColliding' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_bottomColliding' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_rightColliding' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_leftColliding' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_dashing' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_InputLeft' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_InputRight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_InputJump' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_InputDash' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::_currentPlatform' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVArena@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>373</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>6201</DEFECTCODE>
+    <DESCRIPTION>Index '20' is out of valid index range '0' to '19' for possibly stack allocated buffer 'this-&gt;_positionCache'.</DESCRIPTION>
+    <FUNCTION>Player::UpdatePositionCache</FUNCTION>
+    <DECORATED>?UpdatePositionCache@Player@@AAEXXZ</DECORATED>
+    <FUNCLINE>370</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>373</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Buffer overrun while writing to 'this-&gt;_positionCache':  the writable size is '160' bytes, but '168' bytes might be written.</DESCRIPTION>
+    <FUNCTION>Player::UpdatePositionCache</FUNCTION>
+    <DECORATED>?UpdatePositionCache@Player@@AAEXXZ</DECORATED>
+    <FUNCLINE>370</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>player.cpp</FILENAME>
+        <LINE>372</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'i' is equal to 20</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>player.cpp</FILENAME>
+        <LINE>372</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'i&gt;0')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+        <FILENAME>player.cpp</FILENAME>
+        <LINE>373</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid write to 'this-&gt;_positionCache[20]', (writable range is 0 to 19)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

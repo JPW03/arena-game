@@ -1,0 +1,45 @@
+Animation checklist
+
+x = complete
+- = incomplete
+
+- All left side versions of player sprites? (sword is behind torso)
+
+Player Movement:
+x Idle
+x Running
+x Jumping
+x Falling
+x Wall slide
+x Wall jump
+x Dash
+
+Player Attacks:
+x Neutral grounded
+x Side grounded
+x Upward grounded
+x Dash attack
+x Neutral air
+x Up air
+x Down air
+x Charged/Spin attack
+x Wall attack
+
+x Numbers 0 - 5 for colour blind mode
+
+Enemies:
+x Ball idle
+x Ball charge
+
+x Support shield summon
+x Support attack
+x Support move
+x Support jump
+x Support fall
+
+x Charger idle
+x Charger move
+- Charger leap
+- Charger slide
+- Charger jump
+- Charger fall

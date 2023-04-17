@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame 0.2.0\arenagame\main.cpp(45): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  2 of 1363 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ArenaGame.vcxproj -> D:\Homework\OneDrive\OneDrive - NCG\Computer Science\Coursework\Project\ArenaGame 0.2.0\Release\ArenaGame.exe

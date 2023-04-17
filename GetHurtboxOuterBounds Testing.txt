@@ -1,0 +1,16 @@
+width
+17
+15
+total 32
+
+left
+47
+64
+
+right
+63
+78
+
+78 - 47 + 1 = 31
+max right - min left + 1 = total width
+(left1 + width1 - 1) - left2 + 1 = total width

@@ -1,0 +1,11 @@
+Information about the menu designs
+
+Background colour = #1b1b1b
+Button colour = #575757
+
+Title font = Mishmash BRK
+Button text font = Microsoft Tei Le
+- Remember the fonts must be in the game files to work with SFML
+
+When a setting is locked, its display becomes black.
+When unlocked, a setting's display is white

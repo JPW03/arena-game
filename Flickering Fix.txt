@@ -1,0 +1,7 @@
+Hurtboxes are flickering when moving into a platform
+
+Option 1:
+Only move hitboxes when a change in direction is detected (previous direction variable)
+
+Option 2:
+A boolean that is true when either the direction or frame changes, false once the hurtboxes have updated.

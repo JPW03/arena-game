@@ -1,0 +1,21 @@
+//An arena is made up of a series of platforms, each platform being a rectangle.
+
+500,200		//Declare the size of the arena (500 pixels by 200 pixels).
+		//The player is 50x50 for reference
+		//Must be an int
+
+//Platform data format:
+#[Middle x-coord], [Middle y-coord], [Width], [Height], [Type];
+
+//For type: 1 = solid, 2 = thin, 3 = solid with castle texture
+
+//Spawn point data format:
+p[X],[Y];
+e[X],[Y];
+
+//Background data format:
+b[file dir]
+
+//If the line starts with a character that's not 'e', 'p' or '#', the rest of the line will be ignored, except the first line that declares size
+
+//Jump max height = ~118px

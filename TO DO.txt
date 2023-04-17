@@ -1,0 +1,51 @@
+Next things to do
+- Player object further:
+	- Stats (number of jumps, attacks, hits, etc)
+- Main object
+	- Options
+- Menus
+	- Buttons change colour when the cursor hovers over it.
+
+
+Maybe do this:
+- Store the settings in a config file
+
+
+
+Fixed Bugs:
+- Immediately moving back into the wall after dash wall jumping will cause the player to clip through the platform.
+- Dashing into a wall on its left side will cause the player to clip through it.
+
+
+Completed stuff:
+- Make hitting a wall while dashing stop the dash
+- Make hitting the ground while wall sliding stop wall sliding
+- Implement wall jump action
+- Make the dash fade "follow" the player (implement large position cache and constantly updating fade sprites)
+- Entity manager
+	- Constructor with each wave added to a list or vector
+	- Update function, will check if all enemies of the wave are dead, etc.
+- Main game loop
+- Wave structs (ints for each enemy type)
+- Hitbox collision detection (in EntityManager?)
+- Health variables and damage functions
+- Game Object:
+	- Complete redo as a static class
+	- Load and unload functions for loading/unloading arenas and starting/ending the game being played when exited to main menu
+	- NewGame and LoadGame functions. Basic text file with number representing the wave to be started from.
+- Ball AI: make the ball move around a platform properly
+- Main menu
+- Invinsibility frames: a timer that tracks how long since you've been hit and a boolean that locks the TakeDamage function
+- Invinsibility frame visual indicator (Sprite impulsing)
+- Ball object
+	- Spawn projectiles (struct containing constant x and y velocities, a sprite, with a list that stores them)
+	- Fix projectiles (limit velocity, account for negative velocities (maybe just use an angle instead of gradient), get animation working, get hitbox working)
+- Basic hit sounds
+- Attacks
+	- Fix vertical boosts from up/down air
+	- Stop all attacks from ending on the falling frame (except grd side for some reason)
+- Filecache
+	- Ability to load and play sound effects
+- HUD
+	- Player health display
+	- Wave number display

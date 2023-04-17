@@ -1,0 +1,31 @@
+﻿  Ball.cpp
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame\ball.cpp(18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame\ball.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Entity.cpp
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame\entity.cpp(287): warning C4244: 'return': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame\entity.cpp(291): warning C4244: 'return': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  EntityManager.cpp
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame\entitymanager.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame\game.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MainMenu.cpp
+  Player.cpp
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame\player.cpp(874): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SoundEffects.cpp
+  main.cpp
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame\main.cpp(101): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame\main.cpp(213): warning C4715: 'Main::GetKeybind': not all control paths return a value
+  ArenaGame.vcxproj -> D:\Homework\OneDrive\OneDrive - NCG\Computer Science\Coursework\Project\ArenaGame\Debug\ArenaGame.exe

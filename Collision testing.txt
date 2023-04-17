@@ -1,0 +1,59 @@
+Bottom collision (player 3 pixels inside of the platform):
+Player:
+(492,727.045)
+top of player = 727.045 - 22.5 = 704.545
+
+
+Platform:
+(500,700)
+bottom of platform = 700 + 7.5 = 707.5
+
+704.545 >= 707.5
+false
+
+
+
+Top collision (player touching top pixel):
+Player:
+(498.8,669.513)
+bottom of player = 669.513 + 22.5 = 692.013
+
+Platform:
+(500,700)
+top of platform = 700 - 7.5 = 692.5
+
+692.013 <= 692.5
+true
+
+
+Bottom collision (player touching bottom pixel):
+Player:
+(501.9,729.265)
+top of player = 729.265 - 22.5 = 706.765
+
+Platform:
+(500,700)
+bottom of platform = 700 + 7.5 = 707.5
+
+706.765 >= 707.5
+false
+
+
+
+Bottom collision if top of player = 707.5
+Player:
+(500,730)
+top of player = 707.5
+
+Platform (500,700)
+Bottom of platform = 707.5
+
+707.5 >= 707.5
+true?
+Player and platform just don't intersect I guess?
+
+
+
+SOLUTION: Remove "- GetHeight() / 2" from if statement, however now the player is 1 pixel inside the platform when it collides
+Warp player 1 pixel down? - Creates jittering but its hardly noticeable
+

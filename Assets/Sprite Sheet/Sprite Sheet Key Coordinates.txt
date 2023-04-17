@@ -1,0 +1,51 @@
+Key Coordinates to Frames on the Sprite Sheet:
+
+Animation (WidthxHeight):
+Frame N - (Left, Top)
+
+
+
+Player:
+
+Idle (35x45):
+Frame 1 - (0,0)
+Frame 2 - (36,0)
+
+Running (44x50)
+Frame 1 - (73,0)
+Frame 2 - (117,0)
+Frame 3 - (161,0)
+Frame 4 - (205,0)
+Frame 5 - (249,0)
+Frame 6 - (293,0)
+Frame 7 - (337,0)
+Frame 8 - (381,0)
+Frame 9 - (425,0)
+Frame 10 - (469,0)
+Frame 11 - (513,0)
+Frame 12 - (557,0)
+Frame 13 - (601,0)
+Frame 14 - (645,0)
+Frame 15 - (689,0)
+Frame 16 - (733,0)
+
+Jumping (37x50)
+Frame 1 - (772,0)
+Frame 2 - (809,0)
+Frame 3 - (846,0)
+Frame 4 - (883,0) 	= Falling frame
+
+Wall Slide (31x43) - (0,47)
+
+Wall Jump (37.53)
+Frame 1 - (32,51)
+Frame 2 - (69,51)
+Frame 3 - (106,51)
+Frame 4 - (143,51)		//Maybe skip frame 4?
+Frame 5 - (180,51)
+Frame 6 - (217.51)
+
+
+
+
+

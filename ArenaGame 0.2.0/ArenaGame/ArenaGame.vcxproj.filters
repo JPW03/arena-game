@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Arena">
+      <UniqueIdentifier>{972deb5d-e019-41c0-bbb1-985bd9b91429}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entities">
+      <UniqueIdentifier>{c3e4190f-4e80-4705-8d02-f4a0afde9d11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{ff66241c-19fc-418b-8d73-e91e3755bfa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entities\Animations">
+      <UniqueIdentifier>{ea4efc0a-c29b-4051-863f-8e844808571d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{284d090e-43f5-4251-a8a9-f2abfe8d31a8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Arena.cpp">
+      <Filter>Arena</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>Arena</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerAnimation.cpp">
+      <Filter>Entities\Animations</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationHandler.cpp">
+      <Filter>Entities\Animations</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="BallAnimation.cpp">
+      <Filter>Entities\Animations</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityManager.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="FileCache.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundEffects.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Arena.h">
+      <Filter>Arena</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>Arena</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityManager.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationHandler.h">
+      <Filter>Entities\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerAnimation.h">
+      <Filter>Entities\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="BallAnimation.h">
+      <Filter>Entities\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="FileCache.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundEffects.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

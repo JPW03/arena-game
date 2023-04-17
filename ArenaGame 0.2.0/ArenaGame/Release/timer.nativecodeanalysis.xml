@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Timer::_timeOffset' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Timer::{ctor}</FUNCTION>
+    <DECORATED>??0Timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\homework\onedrive\onedrive - ncg\computer science\coursework\project\arenagame\arenagame</FILEPATH>
+      <FILENAME>timer.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Timer::_timeCache' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Timer::{ctor}</FUNCTION>
+    <DECORATED>??0Timer@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

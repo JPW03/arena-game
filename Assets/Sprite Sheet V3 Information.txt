@@ -1,0 +1,14 @@
+Every frame is within a 128x128 area.
+
+This allows for the origin of the player to remain constant relative to the coordinates of the 128x128 space.
+This reduces algorithmic complexity whilst still fixing the sprite jittering caused by the origin auto adjusting to the centre of the texture rect
+
+Origin = (63,63)
+
+Frames:
+1 - 2 = Idle
+3 - 18 = Running
+19 - 21 = Jumping
+22 = Falling
+23 = Wall slide
+24 - 28 = Wall jump

@@ -1,0 +1,4 @@
+Issues with the running animation to fix in V2 (if I have enough time to make it)
+
+- Too repetitive.
+	- Make the 2nd phase of the animation unique to avoid it looking like the arms and legs are constantly on the same side of the body
